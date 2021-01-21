@@ -1,0 +1,22 @@
+{
+  "name": "st-clair-tea",
+  "version": "1.0.0",
+  "description": "Buy Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Strait",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "St-Clair-Tea"
+  },
+  "keywords": [
+    "Tea",
+    "Node.js"
+  ],
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
